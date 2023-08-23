@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Castoro Titling', cursive;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 3em;
+}
+.box{
+    display: flex;
+    justify-content: center;
+}
+tr{
+    empty-cells: hide;
+}
+td{
+    width: 4em;
+    padding-left: 3px;
+    margin: 10px;
+}
+.symbol{
+    font-size: 22px;
+    font-weight: bold;
+}
+.name{
+    font-size: 10px;
+}
+.atomicmass{
+    font-size: 10px;
+}
+.gas{
+color: rgb(212, 3, 3);
+}
+.liquid{
+    color: rgb(0, 0, 128);
+}
+.unknown{
+    color: rgb(0, 92, 0);
+}
+.grey{
+    background-color: #E5E6E0;
+}
+.orange{
+    background-color: #fcc334;
+}
+.seagreen{
+background-color: #8ae7ca;
+}
+.pink{
+    background-color: pink;
+}
+.green{
+   background-color: rgb(31, 255, 31);
+}
+.purple{
+    background-color: #C8D2EB;
+}
+.yellow{
+    background-color: rgb(255, 255, 0);
+}
+.lightred{
+    background-color:#FAC8BF ;
+}
+.space{
+    height: 80px;
+}
+.peach{
+    background-color: #eb9f81;
+}
+.lightpurple{
+    background-color: #e499cd;
+}
